@@ -4,7 +4,7 @@
 
 *Autor: Juan Dirceu Navarro Arias*
 
-![Patron Decorator](https://www.safaribooksonline.com/library/view/learning-javascript-design/9781449334840/httpatomoreillycomsourceoreillyimages1547817.png)
+![Patron Decorator](https://www.safaribooksonline.com/library/view/learning-javascript-design/9781449334840/httpatomoreillycomsourceoreillyimages1547817.png)  
 Fuente: Addy Osmani, SafariBooksOnline
 
 El patrón de diseño Decorator pertenece a la jerarquía de los patrones estructurales. Éste patrón se utiliza para extender o añadir funcionalidad a un objeto ya existente de forma dinámica.
